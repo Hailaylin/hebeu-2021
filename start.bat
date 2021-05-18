@@ -1,0 +1,1 @@
+java -jar -Xmx10G -Xms4G paper-1.16.5-700.jar
